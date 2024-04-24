@@ -1,4 +1,4 @@
-
+Live deploy link :- https://bookstore-ojh2zrcab-pintu870s-projects.vercel.app/api/books
 
 ```markdown
 # CRUD API with Authentication
@@ -33,13 +33,13 @@ Make sure you have Node.js and MongoDB installed on your machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/your_repository.git
+   git clone https://github.com/pintu544/Bookstore
    ```
 
 2. Install dependencies:
 
    ```bash
-   cd your_repository
+   cd Bookstore
    npm install
    ```
 
